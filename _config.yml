@@ -1,15 +1,12 @@
 # The Site Configuration
-
-#title: "Moul Dar | مول الدار"
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
-lang: en
-
-# Change to your timezone › https://zones.arilyn.cc
-timezone:
-
+title: "Moul Dar | مول الدار"
+tagline: "مشروع الوعي والنخبة الجديدة"
+description: >-
+  مدونة الوعي الجزائري. مشروع لتحويل المواطن من حالة الانتظار السلبي إلى حالة المسؤولية الفعالة.
+url: "https://redzoubiri-a11y.github.io"
+baseurl: "/moul-dar-pro"
+lang: "ar"
+timezone: "Africa/Algiers"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
